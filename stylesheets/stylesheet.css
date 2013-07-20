@@ -253,7 +253,7 @@ form {
   padding: 20px;
 }
 
-/*
+/* wdk - dont stretch images across screen
 img {
   width: 100%;
   max-width: 100%;
